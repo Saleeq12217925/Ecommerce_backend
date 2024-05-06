@@ -1,0 +1,12 @@
+.navbar{
+    width: 100vw;
+    height: 8vh;
+    background-color: #202020;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 1px;
+    font-weight: 500;
+    font-size: larger;
+}
